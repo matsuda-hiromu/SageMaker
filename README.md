@@ -10,4 +10,4 @@
 - GCPの場合、機械学習モデルの開発では、BigQueryMLもしくはVertexAIを用いることになる
 - BigQueryMLはSQLのみで機械学習のバッチ処理が可能なのが主な特徴である
 - VertexAIはSageMaker同様APIリリース機能やカスタマイズされたモデルなどを用いた開発を行えることが主な特徴である
-
+- VertexAIは2021/5/18に発表されたもの
